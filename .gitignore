@@ -46,3 +46,5 @@ config/secrets.yml
 *.bowerrc
 bower.json
 
+*.sublime-project
+

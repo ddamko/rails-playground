@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"po",
+				"pos:f	position:fixed"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"spa",
+				"span-columns"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"cu",
+				"cur:d	cursor:default"
+			],
+			[
+				"pso",
+				"pos:a	position:absolute"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"input",
+				"input	input - hidden"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"pr",
+				"primary"
+			],
+			[
+				"styl",
+				"style	Attr"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"mart",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"boe",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"pro",
+				"primary-color"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fair",
+				"fair_documant"
+			],
+			[
+				"Fa",
+				"FairDocumentAdaptor"
+			],
+			[
+				"fa",
+				"fair_doc"
+			],
+			[
+				"Fair",
+				"FairDocument"
+			],
+			[
+				"Fai",
+				"FairDocument"
+			],
+			[
+				"def",
+				"defi	initialize with instance variable - Ruby"
+			],
+			[
+				"cla",
+				"cla	class BlankSlate .. initialize .. end"
+			],
+			[
+				"ass",
+				"asset"
+			],
+			[
+				"res",
+				"resize	.resize"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"ps",
+				"pos:r	position:relative"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"rb",
+				"rgba	rgba()"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"v",
+				"va	vertical-align"
+			],
+			[
+				"outer",
+				"outer-footer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 321.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"Snippet: htmlboiler"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/derek/projects/rails_playground"
+	],
+	"file_history":
+	[
+		"/home/derek/projects/rails_playground/.gitignore",
+		"/tmp/fz3temp-1/header.php",
+		"/tmp/fz3temp-1/variables.less",
+		"/tmp/fz3temp-1/routes.php",
+		"/tmp/fz3temp-1/header.blade.php",
+		"/tmp/fz3temp-1/style.less",
+		"/tmp/fz3temp-1/laravel.less",
+		"/tmp/fz3temp-1/layouts.less",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/artisan",
+		"/mnt/Ohara/judgeohara.com/index.html",
+		"/mnt/Ohara/judgeohara.com/master.html",
+		"/mnt/Ohara/judgeohara.com/app.css",
+		"/mnt/Ohara/judgeohara.com/sass/_main.scss",
+		"/mnt/Ohara/judgeohara.com/sass/app.scss",
+		"/mnt/Ohara/judgeohara.com/ohara.js",
+		"/mnt/Ohara/judgeohara.com/sass/_settings.scss",
+		"/mnt/Ohara/judgeohara.com/sass/config.rb",
+		"/mnt/Ohara/judgeohara.com/patrick_couch_green_tie.jpg",
+		"/mnt/Ohara/judgeohara.com/css/app.css",
+		"/mnt/www/aropistachio.com/theme/assets/main.js",
+		"/mnt/www/recycledepot.dev/html/assets/less/recycledepot.less",
+		"/home/derek/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/derek/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/mnt/ARO Pistachio/temp.html",
+		"/home/derek/.config/sublime-text-3/Packages/User/HTML.sublime-settings",
+		"/mnt/Ohara/judgeohara.com/contact.html",
+		"/mnt/Ohara/judgeohara.com/about.html",
+		"/mnt/Ohara/judgeohara.com/rates.html",
+		"/tmp/fz3temp-1/store.html",
+		"/tmp/fz3temp-1/planoPgStyle 2.css",
+		"/tmp/fz3temp-1/planoPgStyle.css",
+		"/mnt/Ohara/judgeohara/main_style.css",
+		"/mnt/Ohara/judgeohara/landing.html",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/views/contact.blade.php",
+		"/mnt/www/centralvalleylabels.com/app/assets/sass/_main.scss",
+		"/tmp/fz3temp-1/style.css",
+		"/tmp/fz3temp-1/ether-builder-light.css",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/layouts/home.blade.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/partials/footer.blade.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/views/about.blade.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/views/services.blade.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/partials/sticky-nav.blade.php",
+		"/mnt/Ohara/meta.txt",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/views/staff.blade.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/partials/header.blade.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/assets/js/main.js",
+		"/mnt/www/centralvalleylabels.com/app/controllers/About.php",
+		"/tmp/fz3temp-1/content-products.php",
+		"/tmp/fz3temp-1/content-home.php",
+		"/tmp/fz3temp-1/content-resources.php",
+		"/home/derek/projects/haskell/bmi.hs",
+		"/home/derek/projects/game-talk-code/src/Main.hs",
+		"/tmp/fz3temp-1/staff.html",
+		"/tmp/fz3temp-1/news-and-events.html",
+		"/mnt/FirstAide Pathcode/website/localhost.sql",
+		"/tmp/fz3temp-1/content-decorative.php",
+		"/tmp/fz3temp-1/main.less",
+		"/tmp/fz3temp-1/content-new-products.php",
+		"/tmp/fz3temp-1/page-new.php",
+		"/tmp/fz3temp-1/content-embossed.php",
+		"/mnt/MirrorMetals Website Backup/test.html",
+		"/mnt/MirrorMetals Website Backup/page-new.php",
+		"/tmp/fz3temp-1/page 2.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/page.php",
+		"/tmp/fz3temp-1/page-standard.php",
+		"/tmp/fz3temp-1/content-random-swirl.php",
+		"/tmp/fz3temp-1/content-300-north-lasalle-building.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/layouts/default.blade.php",
+		"/mnt/www/centralvalleylabels.com/app/controllers/Home.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/views/home.blade.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/config.php",
+		"/mnt/www/centralvalleylabels.com/html/themes/cvl/layouts/video.blade.php",
+		"/home/derek/.config/openbox/autostart",
+		"/tmp/fz3temp-1/index_home.ascx",
+		"/tmp/fz3temp-1/index_home_member.ascx",
+		"/tmp/fz3temp-1/page-classes.php",
+		"/tmp/fz3temp-1/content-bright-mirror.php",
+		"/tmp/fz3temp-1/content-walt-disney-concert-hall-at-the-music-center.php",
+		"/tmp/fz3temp-1/content-portfolio.php",
+		"/tmp/fz3temp-1/content-starlight.php",
+		"/tmp/fz3temp-1/content-t304-8-non-directional.php",
+		"/mnt/LOVE Inc Tulare County/localhost.sql",
+		"/mnt/ARO Pistachio/contact-us.htm",
+		"/tmp/fz3temp-1/content-vibration.php",
+		"/tmp/fz3temp-1/content-circle-cd.php",
+		"/tmp/fz3temp-1/content-grain.php",
+		"/tmp/fz3temp-1/content-red-bronze.php",
+		"/tmp/fz3temp-1/content-6-hairline.php",
+		"/tmp/fz3temp-1/main.js",
+		"/tmp/fz3temp-1/footer.php",
+		"/tmp/fz3temp-1/content-linen.php",
+		"/tmp/fz3temp-1/content-bead-blast.php",
+		"/mnt/www/aropistachio.com/styles/style.scss",
+		"/mnt/www/aropistachio.com/theme/assets/style.css",
+		"/mnt/www/aropistachio.com/theme/layout/home.liquid",
+		"/mnt/www/aropistachio.com/theme/snippets/footer.liquid",
+		"/mnt/www/aropistachio.com/grower.html",
+		"/mnt/www/aropistachio.com/theme/snippets/site-nav.liquid",
+		"/mnt/www/aropistachio.com/theme/layout/theme.liquid",
+		"/mnt/www/aropistachio.com/theme/assets/aro-orchard-three.jpg",
+		"/mnt/www/aropistachio.com/home.html",
+		"/mnt/www/aropistachio.com/theme/snippets/product-grid-item.liquid",
+		"/mnt/www/aropistachio.com/gift-cert.html",
+		"/mnt/www/aropistachio.com/ship-store-save.html",
+		"/mnt/www/aropistachio.com/theme/templates/product.liquid",
+		"/mnt/www/aropistachio.com/theme/assets/checkout.css",
+		"/mnt/www/aropistachio.com/theme/assets/aro-logo.jpg",
+		"/mnt/www/aropistachio.com/theme/templates/blog.liquid",
+		"/mnt/www/aropistachio.com/theme/assets/aro-logo-checkout.png",
+		"/mnt/www/aropistachio.com/theme/assets/aro-logo-alt.png",
+		"/mnt/www/aropistachio.com/theme/assets/aro-logo.png",
+		"/mnt/www/aropistachio.com/theme/assets/aro-logo_alt.png",
+		"/mnt/www/aropistachio.com/theme/assets/aro-orchard-four.jpg",
+		"/mnt/www/aropistachio.com/theme/assets/aro-orchard-three_200.jpg",
+		"/mnt/www/aropistachio.com/theme/assets/aro-orchard-two.jpg",
+		"/mnt/www/aropistachio.com/theme/assets/aro-pistachios.jpg",
+		"/mnt/www/aropistachio.com/temp.htm",
+		"/mnt/www/aropistachio.com/theme/templates/customers/register.liquid",
+		"/mnt/www/aropistachio.com/theme/templates/customers/login.liquid",
+		"/mnt/www/aropistachio.com/styles/settings.scss",
+		"/mnt/www/aropistachio.com/Gemfile",
+		"/mnt/www/aropistachio.com/styles/normalize_bourbon/_normalize_bourbon.scss",
+		"/mnt/www/aropistachio.com/styles/normalize_bourbon/README.md",
+		"/mnt/ARO Pistachio/pistachio-ology.html",
+		"/tmp/fz3temp-1/autoload.php",
+		"/tmp/fz3temp-1/autoload_real.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ether-img ",
+			"35em",
+			"335px",
+			"$body-font-family",
+			"3",
+			"1200",
+			"mongodb",
+			"home",
+			"$body-font-family",
+			"Carl Nelson Insurance",
+			"Carl Nelson",
+			"As insurance company",
+			"Workers’",
+			"an independent",
+			"2",
+			"history"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"As a local insurance company"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 181.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "rails_playground.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 510.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/mnt/www/cvl.sublime-project"
+			]
+		],
+		"width": 388.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
